@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Class
 class Mahasiswa
 {
 public:
@@ -14,6 +15,7 @@ public:
 
 int main(int argc, char const *argv[])
 {
+    //Call Class
     Mahasiswa data1;
     data1.nama = "Ucup";
     data1.NIM = "1426272881";
