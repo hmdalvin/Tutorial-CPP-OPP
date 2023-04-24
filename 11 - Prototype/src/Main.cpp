@@ -27,7 +27,6 @@ int main(int argc, char const *argv[])
     return 0;
 }
 
-
 // Penjabaran method
 Player::Player(const char* name)
 {
