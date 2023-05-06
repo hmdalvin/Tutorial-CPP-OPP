@@ -23,12 +23,6 @@ public:
     {
         return this->sisi * this->sisi;
     }
-
-    bool isLebihPanjang(const PersegiPanjang &obj)
-    {
-        bool isTrue = this->sisi > obj.lebar;
-        return isTrue;
-    }
 };
 
 class PersegiPanjang
